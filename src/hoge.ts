@@ -6,3 +6,15 @@ console.log(fugafuga);
 
 import { piyo } from './piyo';
 piyo();
+
+
+interface HOGE {
+    (): void
+};
+
+function f() {
+    console.log('hoge');
+}
+
+const z = (<HOGE>f);
+z();
