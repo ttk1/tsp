@@ -1,0 +1,22 @@
+{
+  "name": "tsp",
+  "version": "1.0.0",
+  "description": "TypeScriptPractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttk1/tsp.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ttk1/tsp/issues"
+  },
+  "homepage": "https://github.com/ttk1/tsp#readme",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
